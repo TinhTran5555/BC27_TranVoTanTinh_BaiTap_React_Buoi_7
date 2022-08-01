@@ -1,0 +1,20 @@
+[
+    {
+     "account": "account 1",
+     "name": "name 1",
+     "password": "password 1",
+     "email": "email 1",
+     "phone": 59,
+     "type": "type 1",
+     "id": "1"
+    },
+    {
+     "account": "account 2",
+     "name": "name 2",
+     "password": "password 2",
+     "email": "email 2",
+     "phone": 68,
+     "type": "type 2",
+     "id": "2"
+    }
+   ]
